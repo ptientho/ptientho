@@ -48,6 +48,6 @@ Passionated in transforming the world with robotics. I'm excited to see how a ro
 ## Projects
 ### Autonomous Object Sorting using a Mobile Robot
 A mobile robot to detect object's colors(🔴 🟢 🔵) and sort them to targeted areas
-[Opens in new tab][![videoLink](https://res.cloudinary.com/marcomontalbano/image/upload/v1676046212/video_to_markdown/images/google-drive--1SFHJdntaNF5QyVEqYmGJN-BL9K2iki5I-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://drive.google.com/file/d/1SFHJdntaNF5QyVEqYmGJN-BL9K2iki5I/view "videoLink")
+[Opens in new tab](https://res.cloudinary.com/marcomontalbano/image/upload/v1676046212/video_to_markdown/images/google-drive--1SFHJdntaNF5QyVEqYmGJN-BL9K2iki5I-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://drive.google.com/file/d/1SFHJdntaNF5QyVEqYmGJN-BL9K2iki5I/view)
 
 Access to Docs and Source Code [Opens in new tab][here!](https://github.com/ptientho/Intro-to-robotics/tree/master/final%20project)
