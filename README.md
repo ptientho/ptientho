@@ -21,7 +21,7 @@ Passionated in transforming the world with robotics. I'm excited to see how a ro
 ## 🛠 Programming Skills
 ✅MATLAB & Simulink ✅Python ✅C++
 
-## 🤖 Robotics Knowledge
+[//] :  <> ## 🤖 Robotics Knowledge
 ✅Forward and Inverse Kinematics of Robot Manipulators
 
 ✅Path and Trajectory Planning
