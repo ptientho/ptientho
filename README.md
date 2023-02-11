@@ -1,7 +1,3 @@
-markdown_extensions:
-  - attr_list
-
-
 # Hi, I'm Peera! 👋
 
 Passionated in transforming the world with robotics. I'm excited to see how a robot comes to life through endeavors from hardware and software. I would love to share my skills and experiences in academics and industry!
@@ -39,3 +35,5 @@ A mobile robot to detect object's colors(🔴 🟢 🔵) and sort them to target
 Access to Docs and Source Code [here!](https://github.com/ptientho/Intro-to-robotics/tree/master/final%20project)
 
 [link](https://github.com/ptientho/Intro-to-robotics/tree/master/final%20project){:target="_blank"}
+
+<a href="https://github.com/ptientho/Intro-to-robotics/tree/master/final%20project" target="_blank" rel="noopener">Link</a>
