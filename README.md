@@ -34,4 +34,4 @@ A mobile robot to detect object's colors(🔴 🟢 🔵) and sort them to target
 
 Access to Docs and Source Code [here!](https://github.com/ptientho/Intro-to-robotics/tree/master/final%20project)
 
-<a href="https://github.com/ptientho/Intro-to-robotics/tree/master/final%20project" target="_blank">hi!</a>
+<a href="https://github.com/ptientho/Intro-to-robotics/tree/master/final%20project" target=_blank>hi!</a>
