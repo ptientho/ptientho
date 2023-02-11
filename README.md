@@ -1,3 +1,6 @@
+markdown_extensions:
+  - attr_list
+
 
 # Hi, I'm Peera! 👋
 
@@ -20,32 +23,13 @@ Passionated in transforming the world with robotics. I'm excited to see how a ro
 
 
 ## 🛠 🤖 Programming Skills and Knowledge
-✅MATLAB & Simulink 
-✅Python 
-✅C++ 
+✅MATLAB & Simulink ✅Python ✅C++ 
+
 ✅Forward and Inverse Kinematics of Robot Manipulators
 ✅Path and Trajectory Planning
 ✅Control of Manipulators
-✅Actuators & Sensors 
-✅Image Processing
+✅Actuators & Sensors ✅Image Processing
 ✅Mobile Robot Localization and Navigation
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Projects
 ### Autonomous Object Sorting using a Mobile Robot
@@ -53,3 +37,5 @@ A mobile robot to detect object's colors(🔴 🟢 🔵) and sort them to target
 [![videoLink](https://res.cloudinary.com/marcomontalbano/image/upload/v1676046212/video_to_markdown/images/google-drive--1SFHJdntaNF5QyVEqYmGJN-BL9K2iki5I-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://drive.google.com/file/d/1SFHJdntaNF5QyVEqYmGJN-BL9K2iki5I/view "videoLink")
 
 Access to Docs and Source Code [here!](https://github.com/ptientho/Intro-to-robotics/tree/master/final%20project)
+
+[link](https://github.com/ptientho/Intro-to-robotics/tree/master/final%20project){:target="_blank"}
