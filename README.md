@@ -18,12 +18,13 @@
 ⚡️ Fun fact: I'm a life-long learning. I like reading literature/research paper about cutting-edge research in robotics and machine learning.</p>
 
 ## 🛠 🤖 Programming Skills and Knowledge
-✅MATLAB & Simulink ✅Python ✅C++ 
-✅Path and Trajectory Planning
-✅Control of Manipulators
-✅Actuators & Sensors 
-✅Image Processing / Computer Vision
-✅Mobile Robot Localization and Navigation
+<ul>
+    <li> Programming languages: MATLAB & Simulink, Python, C++ </li>  
+    <li>Control of Manipulators</li>
+    <li>Actuators & Sensors</li> 
+    <li>Image Processing & Computer Vision</li>
+    <li>Mobile Robot Localization and Navigation</li>
+</ul>
 
 ## Projects
 ### Autonomous Object Sorting using a Mobile Robot
