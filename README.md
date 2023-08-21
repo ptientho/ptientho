@@ -8,7 +8,6 @@ Passionated in transforming the world with robotics. I'm excited to see how a ro
 
 👩‍💻 Experiences: 
     - Research at Wearable Robotics System Lab (www.wrslab.com) about "Ambulatory Activity Classification in Free-living Conditions using Wearable Sensors"
-    
     - Robotic Software Development in Robot Operation System (ROS1 & ROS2)
 
 📫 How to reach me: [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peera-tienthong-a01b12142/)
