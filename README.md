@@ -9,10 +9,11 @@
     <li>Research at Wearable Robotics System Lab (www.wrslab.com) about "Ambulatory Activity Classification in Free-living Conditions using Wearable Sensors"</li>
     <li>Robotic Software Development in Robot Operation System (ROS1 & ROS2)</li>
 </ul>
+
 📫 How to reach me: [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peera-tienthong-a01b12142/)
-[![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram)](https://www.instagram.com/pheera.t/?igshid=NDk5N2NlZjQ%3D)
-😄 Pronouns: He/him
-⚡️ Fun fact: I'm a life-long learning. I like reading literature/research paper about cutting-edge research in robotics and machine learning.
+[![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram)](https://www.instagram.com/pheera.t/?igshid=NDk5N2NlZjQ%3D)<br>
+😄 Pronouns: He/him<br>
+⚡️ Fun fact: I'm a life-long learning. I like reading literature/research paper about cutting-edge research in robotics and machine learning.</p>
 
 ## 🛠 🤖 Programming Skills and Knowledge
 ✅MATLAB & Simulink ✅Python ✅C++ 
