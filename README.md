@@ -12,7 +12,9 @@
 
 📫 How to reach me: [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peera-tienthong-a01b12142/)
 [![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram)](https://www.instagram.com/pheera.t/?igshid=NDk5N2NlZjQ%3D)<br>
+
 😄 Pronouns: He/him<br>
+
 ⚡️ Fun fact: I'm a life-long learning. I like reading literature/research paper about cutting-edge research in robotics and machine learning.</p>
 
 ## 🛠 🤖 Programming Skills and Knowledge
