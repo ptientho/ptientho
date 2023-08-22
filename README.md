@@ -27,5 +27,5 @@
 </ul>
 
 ## Projects
-[ME598-Final Project: Autonomous Object Sorting using a Mobile Robot!](https://github.com/ptientho/Intro-to-robotics/tree/master/final%20project)
+[ME598-Final Project: Autonomous Object Sorting using a Mobile Robot](https://github.com/ptientho/Intro-to-robotics/tree/master/final%20project)
 
