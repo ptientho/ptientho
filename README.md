@@ -1,4 +1,4 @@
-# Hi 👋, I'm Peera! 
+,# Hi 👋, I'm Peera! 
 
 <p>Passionated in transforming the world with robotics. I'm excited to see how a robot comes to life through endeavors from hardware and software. I would love to share my skills and experiences in academics and industry!</p>
 
@@ -27,7 +27,10 @@
 </ul>
 
 ## Projects
-[ME598-Final Project: Autonomous Object Sorting using a Mobile Robot](https://github.com/ptientho/Intro-to-robotics/tree/master/final%20project)
+<ul>
+    <li>[ME598-Final Project: Autonomous Object Sorting using a Mobile Robot](https://github.com/ptientho/Intro-to-robotics/tree/master/final%20project)</li>
+    <li>[Checkpoint1: Build RB-1](https://github.com/ptientho/checkpoint1-build-RB1)</li>
+</ul>
 
-[Checkpoint1: Build RB-1](https://github.com/ptientho/checkpoint1-build-RB1)
+
 
