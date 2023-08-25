@@ -27,11 +27,10 @@
 </ul>
 
 ## Projects
-<ul>
-    <li>[ME598-Final Project: Autonomous Object Sorting using a Mobile Robot](https://github.com/ptientho/Intro-to-robotics/tree/master/final%20project)</li>
+[ME598-Final Project: Autonomous Object Sorting using a Mobile Robot](https://github.com/ptientho/Intro-to-robotics/tree/master/final%20project)
     
-    <li>[Checkpoint1: Build RB-1](https://github.com/ptientho/checkpoint1-build-RB1)</li>
-</ul>
+[Checkpoint1: Build RB-1](https://github.com/ptientho/checkpoint1-build-RB1)
+
 
 
 
