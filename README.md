@@ -1,4 +1,4 @@
-,# Hi 👋, I'm Peera! 
+# Hi 👋, I'm Peera! 
 
 <p>Passionated in transforming the world with robotics. I'm excited to see how a robot comes to life through endeavors from hardware and software. I would love to share my skills and experiences in academics and industry!</p>
 
