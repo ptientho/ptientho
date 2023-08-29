@@ -26,11 +26,6 @@
     <li>Mobile Robot Localization and Navigation</li>
 </ul>
 
-## Projects
-[ME598-Final Project: Autonomous Object Sorting using a Mobile Robot](https://github.com/ptientho/Intro-to-robotics/tree/master/final%20project)
-    
-[Checkpoint1: Build RB-1](https://github.com/ptientho/checkpoint1-build-RB1)
-
 
 
 
