@@ -7,7 +7,11 @@
 👩‍💻 Experiences:<br>
 <ul>
     <li>Research at Wearable Robotics System Lab (www.wrslab.com) about "Ambulatory Activity Classification in Free-living Conditions using Wearable Sensors"</li>
-    <li>Robotic Software Development in Robot Operation System (ROS1 & ROS2)</li>
+    <li>Robotic Software Development in Robot Operation System (ROS/ROS2)</li>
+    <li>Proficiency in C++ and Python</li>
+    <li>Utilization of DevOps tools for CI/CD, including Git, Docker, Jenkins, and the GTest framework</li>
+    <li>A solid foundation in Robotics Theory, including mobile robot and arm kinematics, robot control, path planning algorithms</li>
+    <li>Extensive hands-on experience with simulated robots and autonomous real robots</li>
 </ul>
 
 📫 How to reach me: [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peera-tienthong-a01b12142/)
