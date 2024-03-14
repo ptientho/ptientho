@@ -23,6 +23,6 @@
 
 ## 🛠 🤖 Featured Projects
 
-
+[Autonomous Shelf Detection in a Mobile Robot using the Behavior Tree](https://github.com/ptientho/RB-1-warehouse-navigation)
 
 
