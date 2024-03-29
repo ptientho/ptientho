@@ -15,6 +15,8 @@
 </ul>
 
 ## Development Tools
+<img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" height="40" style="vertical-align: top; margin: 4px">
+<img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" height="40" style="vertical-align: top; margin: 4px">
 
 📫 How to reach me: [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peera-tienthong-a01b12142/)
 [![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram)](https://www.instagram.com/pheera.t/?igshid=NDk5N2NlZjQ%3D)<br>
