@@ -6,13 +6,15 @@
 <p>👨🏼‍🎓 Education: Master of Engineering in Robotics at Stevens Institute of Technology<br>
 👩‍💻 Experiences:<br>
 <ul>
-    <li>Research at Wearable Robotics System Lab (www.wrslab.com) about "Ambulatory Activity Classification in Free-living Conditions using Wearable Sensors"</li>
-    <li>Robotic Software Development in Robot Operation System (ROS/ROS2)</li>
-    <li>Proficiency in C++ and Python</li>
+    <li>Experienced research at Wearable Robotics System Lab (www.wrslab.com) about "Ambulatory Activity Classification in Free-living Conditions using Wearable Sensors", earned award at Stevens Institute of Tech's Research Conference through exceptional project contributions and innovative approach</li>
+    <li>Completed comprehensive training in robotics software development certified by the Construct Masterclass</li>
+    <li>Actively engage in robotics community</li>
     <li>Utilization of DevOps tools for CI/CD, including Git, Docker, Jenkins, and the GTest framework</li>
     <li>A solid foundation in Robotics Theory, including mobile robot and arm kinematics, robot control, path planning algorithms</li>
     <li>Extensive hands-on experience with simulated robots and autonomous real robots</li>
 </ul>
+
+## Development Tools
 
 📫 How to reach me: [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peera-tienthong-a01b12142/)
 [![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram)](https://www.instagram.com/pheera.t/?igshid=NDk5N2NlZjQ%3D)<br>
